@@ -1,5 +1,5 @@
 # 💫 About Me:
-ou Leonardo, estudante do segundo ano do ensino médio e também estou cursando um curso técnico em Tecnologia da Informação. Desde cedo, a tecnologia sempre chamou minha atenção, e hoje estou aproveitando essa oportunidade para aprender mais sobre programação, redes e segurança da informação. Gosto de me manter atualizado com as novidades da área e de aplicar o que aprendo em projetos práticos. Minha meta é seguir uma carreira promissora no campo da TI, unindo o conhecimento teórico à prática que tenho adquirido ao longo do curso.
+Sou Leonardo, estudante do segundo ano do ensino médio e também estou cursando um curso técnico em Tecnologia da Informação. Desde cedo, a tecnologia sempre chamou minha atenção, e hoje estou aproveitando essa oportunidade para aprender mais sobre programação, redes e segurança da informação. Gosto de me manter atualizado com as novidades da área e de aplicar o que aprendo em projetos práticos. Minha meta é seguir uma carreira promissora no campo da TI, unindo o conhecimento teórico à prática que tenho adquirido ao longo do curso.
 
 
 ## 🌐 Socials:
