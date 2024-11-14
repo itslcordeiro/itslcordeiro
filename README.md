@@ -19,7 +19,7 @@ I'm Leonardo, a second year high school student and I'm also studying a technica
 ---
 [![](https://visitcount.itsvg.in/api?id=itslcordeiro&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
 
 
