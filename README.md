@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Leonardo, a second year high school student and I'm also studying a technical course in Information Technology. From an early age, technology has always caught my attention, and today I'm taking advantage of this opportunity to learn more about programming, networks and information security. I like to keep up to date with news in the field and apply what I learn in practical projects. My goal is to pursue a promising career in the IT field, combining theoretical knowledge with the practice that I have acquired throughout the course.
+I'm Leonardo, a third year high school student and I'm also studying a technical course in Information Technology. From an early age, technology has always caught my attention, and today I'm taking advantage of this opportunity to learn more about programming, networks and information security. I like to keep up to date with news in the field and apply what I learn in practical projects. My goal is to pursue a promising career in the IT field, combining theoretical knowledge with the practice that I have acquired throughout the course.
 
 
 ## 🌐 Socials:
