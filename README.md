@@ -73,22 +73,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌎 Linguagens mais utilizadas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itslcordeiro\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
 
