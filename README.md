@@ -18,7 +18,6 @@
 
 Atualmente estou desenvolvendo projetos pessoais e acadêmicos para aprimorar minhas habilidades práticas.
 
-
 <br clear="both">
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd0OHNxN2loMm5zbzRybGV1dDVya205NzVkNW04NWtoaG9hNWs5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
