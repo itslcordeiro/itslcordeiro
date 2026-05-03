@@ -1,9 +1,9 @@
 
-# 👨‍💻 Leonardo Cordeiro Andrade
+# </> Leonardo Cordeiro Andrade
 
 <div align="center">
 
-### 🚀 Estudante de Tecnologia | Desenvolvedor em evolução
+### Estudante de Tecnologia | Desenvolvedor em evolução
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+IA;Java+%7C+Python+%7C+JavaScript;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Typing SVG" />
 
@@ -15,15 +15,15 @@
 <tr>
 <td width="65%">
 
-## 💫 Sobre mim
+## 🔗 Sobre mim
 
-💻 Estudante de Tecnologia apaixonado por desenvolvimento de software, programação e Inteligência Artificial.
+- Estudante de Tecnologia apaixonado por desenvolvimento de software, programação e Inteligência Artificial.
 
-🚀 Atualmente focado em fortalecer minhas habilidades através de projetos práticos, estudos constantes e desafios de programação.
+- Atualmente focado em fortalecer minhas habilidades através de projetos práticos, estudos constantes e desafios de programação.
 
-🎓 Estudando desenvolvimento de sistemas, lógica de programação, UX/IHC e desenvolvimento web.
+- Estudando desenvolvimento de sistemas, lógica de programação, UX/IHC e desenvolvimento web.
 
-📚 Desenvolvendo projetos pessoais e acadêmicos para aprimorar minhas habilidades práticas e evoluir constantemente como desenvolvedor.
+- Desenvolvendo projetos pessoais e acadêmicos para aprimorar minhas habilidades práticas e evoluir constantemente como desenvolvedor.
 
 </td>
 
