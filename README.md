@@ -73,13 +73,8 @@
 
 ---
 
-## 🌎 Linguagens mais utilizadas
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=itslcordeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itslcordeiro\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itslcordeiro&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
