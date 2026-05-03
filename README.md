@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Estudante de Tecnologia | Desenvolvedor em evolução
+###  Estudante de Tecnologia | Desenvolvedor em evolução
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+IA;Java+%7C+Python+%7C+JavaScript;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Typing SVG" />
@@ -17,6 +17,12 @@
 🎓 Estudando desenvolvimento de sistemas, lógica de programação, UX/IHC e desenvolvimento web, buscando evoluir cada vez mais como desenvolvedor e construir uma base sólida para minha carreira na área de tecnologia.
 
 Atualmente estou desenvolvendo projetos pessoais e acadêmicos para aprimorar minhas habilidades práticas.
+
+---
+
+<br clear="both">
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd0OHNxN2loMm5zbzRybGV1dDVya205NzVkNW04NWtoaG9hNWs5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 
 ---
 
@@ -35,7 +41,7 @@ Atualmente estou desenvolvendo projetos pessoais e acadêmicos para aprimorar mi
 
 # 💻 Tecnologias & Ferramentas
 
-## 🚀 Linguagens
+## 👨🏾‍💻 Linguagens
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
