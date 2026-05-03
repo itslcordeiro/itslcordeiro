@@ -43,7 +43,7 @@
 
 # 🌐 Onde me encontrar
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itslcordeiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_iamleozx)
@@ -58,7 +58,7 @@
 
 ## 👨🏾‍💻 Linguagens
 
-<div align="right">
+<div>
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 
@@ -68,7 +68,7 @@
 
 ## 🛠️ Ferramentas
 
-<div align="right">
+<div>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,windows" />
 
