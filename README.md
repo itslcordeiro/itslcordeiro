@@ -18,7 +18,6 @@
 
 Atualmente estou desenvolvendo projetos pessoais e acadêmicos para aprimorar minhas habilidades práticas.
 
----
 
 <br clear="both">
 
