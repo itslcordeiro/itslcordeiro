@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 Estudante de Tecnologia e apaixonado por desenvolvimento de software, programação e Inteligência Artificial. Atualmente focado em fortalecer minhas habilidades através de projetos práticos, estudos constantes e desafios de programação. 
+💻 Estudante de Tecnologia e apaixonado por desenvolvimento de software, programação e Inteligência Artificial. Atualmente focado em fortalecer minhas habilidades através de projetos práticos, estudos constantes e desafios de programação. 
 
 🎓 Estudando desenvolvimento de sistemas, lógica de programação, UX/IHC e desenvolvimento web, buscando evoluir cada vez mais como desenvolvedor e construir uma base sólida para minha carreira na área de tecnologia.
 
@@ -57,16 +57,6 @@ Atualmente estou desenvolvendo projetos pessoais e acadêmicos para aprimorar mi
 
 
 </div>
-
----
-
-## 🎯 Objetivos
-
-✔️ Evoluir constantemente como desenvolvedor
-✔️ Construir projetos cada vez mais completos
-✔️ Aprender novas tecnologias
-✔️ Conquistar experiência profissional na área de tecnologia
-✔️ Compartilhar minha evolução através do GitHub
 
 ---
 
