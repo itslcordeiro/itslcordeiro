@@ -1,3 +1,4 @@
+
 # 👨‍💻 Leonardo Cordeiro Andrade
 
 <div align="center">
@@ -40,7 +41,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+# 🌐 Onde me encontrar
 
 <div align="center">
 
@@ -57,7 +58,7 @@
 
 ## 👨🏾‍💻 Linguagens
 
-<div align="center">
+<div align="right">
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 
@@ -67,7 +68,7 @@
 
 ## 🛠️ Ferramentas
 
-<div align="center">
+<div align="right">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,windows" />
 
@@ -79,7 +80,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslcordeiro&layout=compact&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=itslcordeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -90,3 +91,4 @@
 ## ⚡ “A prática transforma conhecimento em habilidade.”
 
 </div>
+
