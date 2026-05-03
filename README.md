@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Estudante de Tecnologia | Desenvolvedor em evolução | Entusiasta de IA
+### 🚀 Estudante de Tecnologia | Desenvolvedor em evolução
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+IA;Java+%7C+Python+%7C+JavaScript;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Typing SVG" />
@@ -12,22 +12,11 @@
 
 ---
 
-## 💫 Sobre mim
+## 💻 Estudante de Tecnologia e apaixonado por desenvolvimento de software, programação e Inteligência Artificial. Atualmente focado em fortalecer minhas habilidades através de projetos práticos, estudos constantes e desafios de programação. 
 
-🎓 Estudante de tecnologia apaixonado por desenvolvimento de software, programação e Inteligência Artificial.
+🎓 Estudando desenvolvimento de sistemas, lógica de programação, UX/IHC e desenvolvimento web, buscando evoluir cada vez mais como desenvolvedor e construir uma base sólida para minha carreira na área de tecnologia.
 
-💡 Atualmente focado em fortalecer minhas habilidades através de projetos práticos, estudos constantes e desafios de programação.
-
-🚀 Tenho interesse em desenvolvimento web, back-end, automação e IA, sempre buscando aprender novas tecnologias e transformar conhecimento em prática.
-
-📚 Estudando constantemente:
-
-* Desenvolvimento Web
-* Programação Orientada a Objetos
-* Estruturas de Dados
-* Inteligência Artificial
-* UX / IHC
-* Git & GitHub
+Atualmente estou desenvolvendo projetos pessoais e acadêmicos para aprimorar minhas habilidades práticas.
 
 ---
 
@@ -62,15 +51,6 @@
 
 ---
 
-## 🤖 Interesses
-
-✨ Inteligência Artificial
-✨ Desenvolvimento Web
-✨ Back-end
-✨ Automação
-✨ Lógica de Programação
-✨ Projetos práticos
-
 ---
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itslcordeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -90,14 +70,8 @@
 
 ---
 
-## ⚡ Frase
-
-> “A prática transforma conhecimento em habilidade.” 🚀
+##  “A prática transforma conhecimento em habilidade.”
 
 ---
 
-<div align="center">
 
-### 🚀 Sempre aprendendo e evoluindo
-
-</div>
